@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=IM+Fell+DW+Pica:ital@1&family=Montserrat&family=Permanent+Marker&family=Rochester&family=Sacramento&family=Satisfy&family=UnifrakturMaguntia&display=swap');   
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+
+body{
+    margin: 0;
+    max-height: 100vh;
+}
+#debut{
+    font-family: 'Sacramento', cursive;
+    background-color: #00a3ad;
+}
+#fearless{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #DEC7A2;
+}
+#speak_now{
+    font-family: 'Rochester', cursive;
+    background-color: #7A407B;
+}
+#red{
+    font-family: 'Anton', sans-serif;
+    background-color: #A91716;
+    color: white;
+}
+#b1989{
+    font-family: 'Permanent Marker', cursive;
+    background-color: #94b8d3;
+    color: white;
+    letter-spacing: 1px;
+}
+#rep{
+    font-family: 'UnifrakturMaguntia', cursive;
+    background-color: black;
+    color: white;
+}
+#lover{
+    font-family: 'Satisfy', cursive;
+    background-color: #FEB1D8;
+}
+#folklore{
+    font-family: 'IM Fell DW Pica', serif;
+    background-color: #848484;
+}
+#evermore{
+    font-family: 'IM Fell DW Pica', serif;
+    background-color:#db825b;
+}
+#midnights{
+    font-family: 'Inter', sans-serif;
+    background-color: #657ef0;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    margin: 0;
+    padding: 20px;
+}
